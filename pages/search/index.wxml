@@ -1,0 +1,16 @@
+<view class="search_row">
+  <input placeholder="请输入您想要搜索的商品" bindinput="handleInput"></input>
+  <button>取消</button>
+</view>
+
+<view class="search_contnet">
+  <view class="search_item">
+    山东矿机安徽的课教案汇顶科技哈开局的哈开局的哈sadjahdkjhakjdhakjhkdadkjakjdhakjhdakjhddkjhakjdhkja
+  </view>
+  <view class="search_item">
+    山东矿机安徽的课教案汇顶科技哈开局的哈开局的哈
+  </view>
+  <view class="search_item">
+    山东矿机安徽的课教案汇顶科技哈开局的哈开局的哈
+  </view>
+</view>

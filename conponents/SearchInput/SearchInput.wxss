@@ -1,0 +1,15 @@
+.search_input {
+  background-color: var(--themeColor);
+  height: 90rpx;
+  padding: 10rpx;
+}
+
+.navigator {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 15rpx;
+  color: #666;
+}
